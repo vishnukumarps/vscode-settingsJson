@@ -5,8 +5,8 @@
     "workbench.colorTheme": "teacher theme dark",
     "workbench.sideBar.location": "right",
     "window.zoomLevel": 0,
- "editor.mouseWheelZoom": true,
-"workbench.tree.indent": 30
+    "editor.mouseWheelZoom": true,
+    "workbench.tree.indent": 30
 
 
 }
