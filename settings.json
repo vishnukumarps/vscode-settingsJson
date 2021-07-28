@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 60,
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "teacher theme dark",
+    "workbench.sideBar.location": "right",
+    "window.zoomLevel": 0,
+ "editor.mouseWheelZoom": true,
+"workbench.tree.indent": 30
+
+
+}
