@@ -32,7 +32,13 @@
     "workbench.sideBar.location": "right",
     "window.zoomLevel": 0,
     "editor.mouseWheelZoom": true,
-    "workbench.tree.indent": 30
+    "workbench.tree.indent": 30,
+
+
+"editor.formatOnSave":true,
+"editor.formatOnPaste":true,
+"editor.fontFamily":"Jetbrains Mono",
+"editor.fontLigatures":true
 
 
 }
