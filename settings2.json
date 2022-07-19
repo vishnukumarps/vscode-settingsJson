@@ -8,3 +8,12 @@
   "sideBar.background": "#282c34"
 }
 }
+================================
+
+
+{
+    "workbench.colorTheme": "Egoist One",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#257a048f"
+    }
+}
