@@ -10,10 +10,9 @@
 }
 ================================
 
-
 {
     "workbench.colorTheme": "Egoist One",
     "workbench.colorCustomizations": {
-        "tab.activeBackground": "#257a048f"
+        "tab.activeBackground": "#00000083"
     }
 }
