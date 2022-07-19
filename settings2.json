@@ -1,0 +1,10 @@
+{
+//https://gist.github.com/dcts/5b2af4c8b6918e7d35c4121f11d49fb1
+  "workbench.colorTheme": "Egoist One",
+  "workbench.colorCustomizations":{
+  "tab.activeBackground": "#282c34",
+  "activityBar.background": "#282c34",
+  "editorGroup.background": "#282c34",
+  "sideBar.background": "#282c34"
+}
+}
