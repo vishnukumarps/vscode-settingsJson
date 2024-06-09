@@ -1,0 +1,42 @@
+Here's a summary of the common conventional commit types with explanations and examples:
+
+feat: A new feature for the user.
+
+Example: feat: add user login functionality
+fix: A bug fix.
+
+Example: fix: resolve issue with login validation
+docs: Documentation only changes.
+
+Example: docs: update API usage examples
+style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
+
+Example: style: reformat code with Prettier
+refactor: A code change that neither fixes a bug nor adds a feature. Used for restructuring, improving readability, or optimizing code without altering its behavior.
+
+Example: refactor: simplify user authentication logic
+perf: A code change that improves performance.
+
+Example: perf: improve database query performance
+test: Adding missing tests or correcting existing tests.
+
+Example: test: add unit tests for user service
+build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm).
+
+Example: build: update npm dependencies
+ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs).
+
+Example: ci: configure CircleCI to run tests
+chore: Other changes that don't modify src or test files. Used for tasks such as updating configurations, dependencies, or build scripts.
+
+Example: chore: update .vscode settings
+revert: Reverts a previous commit.
+
+Example: revert: revert "feat: add user login functionality"
+These commit types help maintain a clear and structured commit history, making it easier to understand the nature of changes in the codebase.
+
+
+
+
+
+
