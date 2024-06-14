@@ -1,5 +1,7 @@
 {
      "workbench.colorCustomizations": {
+      "tab.activeBackground": "#067799", // Gold color for the active tab background
+      "tab.activeBorder": "#FF4500", // OrangeRed color for the active tab border
       "terminal.background":"#220f0d",
       "terminal.foreground":"#f8f8ec",
       "terminalCursor.background":"#A89984",
